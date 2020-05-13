@@ -2,4 +2,4 @@
 NodeJs Discord Bot
 
 Requirements:
-- NodeJs
+- NodeJs (v10.x atleast)
