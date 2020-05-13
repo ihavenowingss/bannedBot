@@ -1,0 +1,2 @@
+# bannedBot
+NodeJs Discord Bot
