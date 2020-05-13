@@ -26,6 +26,9 @@ client.on('message', msg => {
         case 'ping':
             msg.reply('pong');
             break;
+        case 'kata':
+            msg.reply('@Katarstic#6666 has a small penis');
+            break;
         case 'config':
             localConfig.config(msg);
             break;
