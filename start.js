@@ -40,7 +40,7 @@ client.on('message', msg => {
             });
             break;
         case 'vit':
-            msg.reply("Nice try you fking nigger");
+            msg.reply("Nice try you fking cotton picking nigger");
             break;
     }
 });
