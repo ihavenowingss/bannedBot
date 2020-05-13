@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeb64315-1143-4bc1-ac09-f4d9ebc2a0e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="aeb64315-1143-4bc1-ac09-f4d9ebc2a0e1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589362318256</updated>
-      <workItem from="1589362322216" duration="283000" />
+      <workItem from="1589362322216" duration="1813000" />
     </task>
     <servers />
   </component>
@@ -52,5 +50,11 @@
         <option value="$PROJECT_DIR$/node_modules/discord.js/typings/index.d.ts" />
       </list>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2625" y="354" width="567" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589363711576">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2625" y="354" width="567" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1589363711576" />
   </component>
 </project>
