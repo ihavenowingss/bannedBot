@@ -15,7 +15,7 @@ class FileManager {
     static save(filePath, object) {
         fs.writeFile(filePath, JSON.stringify(object), function(err) {
             if(err) {
-                // I don't even know if this return goes somewhere xD
+                // log this
                 return 'Hey! There was a problem trying to save your data, contact Kaitho!';
             }
         });
