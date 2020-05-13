@@ -1,4 +1,9 @@
 {
     "bot_token": "MzA2MDcwNTMzODY5NjY2MzA1.Dyor9w.8wwE0wkV0TB7cE1h3mGKqtorP2M",
-    "prefix": "!!"
+    "storage": {
+        "config": {
+            "prod": "./storage/config/prod.json"
+        },
+        "members": "./storage/members/"
+    }
 }
